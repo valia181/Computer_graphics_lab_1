@@ -1,0 +1,3 @@
+C:/Users/valal/Desktop/Комп графіка/Лаб 1/cmake-build-debug/CMakeFiles/lab1_opengl.dir
+C:/Users/valal/Desktop/Комп графіка/Лаб 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/valal/Desktop/Комп графіка/Лаб 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

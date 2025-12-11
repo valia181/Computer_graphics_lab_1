@@ -1,0 +1,6 @@
+# ninja log v6
+30	639	7871465721039511	CMakeFiles/lab1_opengl.dir/main.cpp.obj	422aebb76ccf0436
+640	733	7871465727139439	lab1_opengl.exe	4dd46b5f26879ec9
+27	337	7871470769912799	build.ninja	45c7c28fa44b4c67
+32	649	7871470771311149	CMakeFiles/lab1_opengl.dir/main.cpp.obj	422aebb76ccf0436
+649	742	7871470777484050	lab1_opengl.exe	4dd46b5f26879ec9
